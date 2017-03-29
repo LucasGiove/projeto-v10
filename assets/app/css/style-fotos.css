@@ -1,7 +1,6 @@
 @import "http://fonts.googleapis.com/css?family=Roboto:300,400,500,700";
 
 .mt40 { margin-top: 40px; }
-
 .panel { position: relative; overflow: hidden; display: block; border-radius: 0 !important;  }
 .panel-default { border-color: #ebedef !important; }
 .panel .panel-body { position: relative; padding: 0 !important; overflow: hidden; height: auto; }
