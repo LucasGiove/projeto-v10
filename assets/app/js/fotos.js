@@ -10,5 +10,10 @@ $(document).ready(function() {
     $(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
         event.preventDefault();
         $(this).ekkoLightbox();
-    });                                        
+    });   
+
+  if (c == 10) {
+
+    xxxx
+  }     else{xxxxx}                                
 }); 
